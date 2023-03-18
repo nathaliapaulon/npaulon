@@ -1,4 +1,5 @@
 Olá, meu nome é Nathalia F Paulon.
+
 Profissional com mais de 6 anos de experiência nas áreas de suporte, infraestrutura e observabilidade.
 Trabalhei com suporte à rede e servidores Windows e Linux, troubleshooting, e-mail, DHCP, samba, backup em fita/disco (Backup Exec, Veeam Backup), AD, proxy, entre outros. 
 Na parte de segurança trabalhei com firewall pfsense, sonicwall e iptables.
